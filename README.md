@@ -1,14 +1,16 @@
+<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Beka+Gudeta!;Software+Engineer+%7C+Programmer+%7C+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 </p>
 
+---
 
 ## 👨‍💻 About Me
-- 🤖 Passionate about **Software Engineering**, **AI**, **Web Development**, and smart tech solutions.  
-- 🚀 Skilled in **C++, Java, HTML, CSS, JavaScript, PHP, JavaFX, FXML, and MySQL/Derby DB**.  
-- 🌱 Currently building projects in **JavaFX** and improving my **full-stack development** skills.  
-- 💡 Love working on creative, efficient, and user-friendly applications.  
-- 📬 Reach me anytime at **gootniittifufa@gmail.com**
+- 🤖 Passionate about **Software Engineering**, **AI**, **Web Development**, and smart technological solutions.  
+- 🚀 Skilled in **C++, Java, JavaScript, PHP, HTML, CSS, JavaFX, JDBC, FXML, MySQL/Derby DB**.  
+- 💡 Love building clean, efficient, and user-friendly apps.  
+- 🌱 Currently improving my **full-stack web development** and **JavaFX** skills.  
+- 📬 Email: **gootniittifufa@gmail.com**
 
 ---
 
@@ -28,9 +30,46 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Beka's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekagudeta&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bekagudeta&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bekagudeta&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekagudeta&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📦 Featured Projects
+
+### 🔹 **Online Book Shopping System (JavaFX)**
+A JavaFX-based book shopping system with:
+- User login/registration  
+- Admin dashboard  
+- Add to cart  
+- Derby database + JDBC  
+- Clean UI with FXML  
+
+### 🔹 **Library Management System (C++ / Java)**
+Supports book tracking, student management, borrowing, and returning.
+
+### 🔹 **Tourist Management System**
+A complete project helping users explore tourist destinations with clean UI and data storage.
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
