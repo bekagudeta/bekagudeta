@@ -1,4 +1,7 @@
-# 👋 Hello, I'm Beka Gudeta!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Beka+Gudeta!;Software+Engineer+%7C+Programmer+%7C+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</p>
+
 
 ## 👨‍💻 About Me
 - 🤖 Passionate about **Software Engineering**, **AI**, **Web Development**, and smart tech solutions.  
