@@ -30,8 +30,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-bekagudeta.vercel.app/api?username=bekagudeta&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bekagudeta&theme=tokyonight" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bekagudeta&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=bekagudeta&theme=tokyonight" />
 </p>
 
 ---
@@ -39,10 +39,11 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-bekagudeta.vercel.app/api/top-langs/?username=bekagudeta&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bekagudeta&layout=compact&theme=tokyonight" />
 </p>
 
 ---
+
 
 
 
