@@ -1,9 +1,7 @@
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Beka+Gudeta!;Software+Engineer+%7C+Programmer+%7C+Developer;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hello,+I'm+Beka+Gudeta!;Software+Engineer+|+Web+Developer+|+JavaFX+Developer;Always+learning+new+things!&center=true&width=600&height=80" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 - 🤖 Passionate about **Software Engineering**, **AI**, **Web Development**, and smart technological solutions.  
