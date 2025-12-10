@@ -27,11 +27,10 @@
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bekagudeta&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-bekagudeta.vercel.app/api?username=bekagudeta&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bekagudeta&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
@@ -40,10 +39,11 @@
 ## 🔥 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekagudeta&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats-bekagudeta.vercel.app/api/top-langs/?username=bekagudeta&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
+
 
 
 ## 📦 Featured Projects
